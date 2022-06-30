@@ -23,7 +23,21 @@
     font-family: "PT Sans", sans-serif;
   font-size: 18px;
   line-height: 21px;
-  color: #333333;
+  color: #000000;
   background-color: #FFFFFF;
 
    }
+   .paige-header {
+
+   }
+.navigation-link{
+  line-height: 26px;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.main-index {
+  background-image: url("index-background.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
