@@ -57,10 +57,12 @@ text-align: center;
 }
 .advantages-item{
   background-color: #82B3D3;
+  color: #FFFFFF;
 }
 
 .services{
   background-color: #FFFFFF;
+  color: #000000;
 }
 .blue{
   background-color:rgba(131, 179, 211, 0.12);
@@ -71,7 +73,68 @@ text-align: center;
 .advantages-item:nth-child(3),
 .advantages-item:last-child{
   background-color:rgba(131, 179, 211, 0.12);
+color: #000000;
 }
 .advantages-item:nth-child(4){
   background-color:rgba(131, 179, 211, 0.2);
+  color: #000000;
+}
+
+
+
+
+.advantages-item-title {
+
+ font-weight: 700;
+ font-size: 24px;
+ line-height: 28px;
+ align: center;
+ vertical-align: top;
+ text-transform: capitalize;
+}
+.advantages-description {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  align: center;
+  vertical-align: top;
+
+}
+.services-title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  align: center;
+  vertical-align: top;
+  text-transform: capitalize;
+
+}
+.services-description {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  align: center;
+  vertical-align: top;
+}
+
+.booking {
+  background-color:#FFFFFF ;
+}
+.booking-title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  align:center;
+  vertical-align: top;
+}
+.booking-description {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  align:center;
+  vertical-align: top;
+
+}
+.newsletter-main {
+  background-image: url(images/footer/background-blur.jpg) ;
 }
