@@ -25,12 +25,27 @@
   line-height: 21px;
   color: #000000;
   background-color: #FFFFFF;
+  
+  
 
    }
+   .button{
+    font-family: inherit;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+    background-color:#756157;
+    text-decoration: none;
+    text-transform: uppercase;
+   }
    .paige-header {
+    color:#000000;
 
    }
 .navigation-link{
+  color: #000000;
   line-height: 26px;
   font-weight: 700;
   text-decoration: none;
@@ -43,8 +58,8 @@
 }
 .main-title {
 
-  font: weight 700px;
-  font: size 30px;
+  font-weight 700px;
+  font-size: 30px;
   line-height: 36px;
   text-align: center;
   text-transform: uppercase;
@@ -88,15 +103,15 @@ color: #000000;
  font-weight: 700;
  font-size: 24px;
  line-height: 28px;
- align: center;
+ text-align: center;
  vertical-align: top;
- text-transform: capitalize;
+ text-transform:uppercase;
 }
 .advantages-description {
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
-  align: center;
+  text-align: center;
   vertical-align: top;
 
 }
@@ -104,16 +119,16 @@ color: #000000;
   font-weight: 700;
   font-size: 24px;
   line-height: 28px;
-  align: center;
+  text-align: center;
   vertical-align: top;
-  text-transform: capitalize;
+  text-transform:uppercase;
 
 }
 .services-description {
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
-  align: center;
+  text-align: center;
   vertical-align: top;
 }
 
@@ -124,17 +139,44 @@ color: #000000;
   font-weight: 700;
   font-size: 30px;
   line-height: 36px;
-  align:center;
+  text-align:center;
   vertical-align: top;
+   text-transform:uppercase;
 }
 .booking-description {
   font-weight: 400;
   font-size: 22px;
   line-height: 26px;
-  align:center;
+  text-align:center;
   vertical-align: top;
 
 }
 .newsletter-main {
-  background-image: url(images/footer/background-blur.jpg) ;
+  background-image: url(background-blur.jpg) ;
+}
+.page-footer-title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align:center;
+  vertical-align: top;
+  text-transform:uppercase;
+  
+}
+.page-footer-text {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  text-align:center;
+  vertical-align: top;
+}
+.footer-contacts-address-phone {
+  color: #000000;
+  font-weight: 400;
+  font-size: 40px;
+  line-height:40px;
+  text-align:center;
+  vertical-align: top;
+  text-decoration: none;
+
 }
