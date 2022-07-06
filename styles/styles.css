@@ -51,13 +51,15 @@
   text-decoration: none;
   text-transform: capitalize;
 }
-.main-index {
+.greetings {
+  color:#FFFFFF;
+  background-color: #000000;
+
   background-image: url("index-background.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
 }
 .main-title {
-
   font-weight 700px;
   font-size: 30px;
   line-height: 36px;
